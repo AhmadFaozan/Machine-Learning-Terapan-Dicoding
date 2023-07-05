@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Arkan Wijdan
+# Laporan Proyek Machine Learning - Ahmad Faozan
 ---
 ## Domain Proyek
 ---
